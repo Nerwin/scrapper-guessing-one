@@ -1,0 +1,12 @@
+{
+  "name": "scrapper",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "6.18.0",
+    "google-translate-api": "^2.2.2",
+    "meteor-node-stubs": "~0.2.0"
+  }
+}
